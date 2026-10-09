@@ -1,0 +1,27 @@
+
+# ATM Interface
+
+## Description
+A console-based ATM simulation developed using Java and Object-Oriented Programming.
+
+## Features
+- User ID and PIN authentication
+- Maximum three login attempts
+- Balance checking
+- Cash withdrawal
+- Cash deposit
+- Money transfer between accounts
+- Transaction history
+
+## Technologies Used
+- Java
+- Object-Oriented Programming
+- ArrayList
+- HashMap
+
+## How to Run
+Compile:
+javac Main.java ATM.java Account.java Bank.java Transaction.java
+
+Run:
+java Main
